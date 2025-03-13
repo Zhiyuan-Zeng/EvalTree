@@ -225,3 +225,20 @@ bash EvalTree/WeaknessProfile/ExtractedNode_Analysis/results/figure.sh
 python -m EvalTree.WeaknessProfile.ExtractedNode_Analysis.results.figure_instruction-following
 # The figures are already available.
 ```
+
+## User Interface of Capability Trees
+
+The `demo` branch contains code to help you build an interface for exploring capability trees interactively.
+You can see a **[demo](https://zhiyuan-zeng.github.io/EvalTree)** of the interface.
+
+Once you have constructed the tree for a benchmark (following the steps above) and added your own model evaluation results, proceed with the following steps:
+
+1. **Generate Capability Distinctions**:  
+   Run `EvalTree/EvalTree/stage5-CapabilityDistinguishing` to generate a **natural language distinction** for each (non-root) node. It differentiates each node from its siblings, giving a more concise and user-friendly description of its capability.
+
+2. **Prepare Data for the Interface**:  
+   Execute `EvalTree/build_data.py` to generate the necessary data files for the interface.
+
+3. **Customize Metadata**:  
+   Modify `meta.json` to include your **benchmark and model information**.
+
