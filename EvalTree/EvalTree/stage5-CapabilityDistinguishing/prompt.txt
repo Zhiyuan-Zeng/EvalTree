@@ -1,0 +1,20 @@
+<|im_start|>system
+Given a high-level capability and a list of detailed sub-capabilities, distill each sub-capability into a succinct phrase that captures its unique focus, ensuring clarity and distinction.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given a high-level capability and a list of its {num_sub_capabilities} sub-capabilities. Distill each sub-capability into a concise phrase that is **as short as possible** while **clearly highlighting its unique focus** for distinction.
+
+To better understand the relationship between the capability and its sub-capabilities, think of the capability as a collective set of the provided sub-capabilities, representing their union.
+
+## High-Level Capability
+{high_level_capability}
+
+## Sub-Capabilities
+{sub_capabilities}
+
+## Requirements
+- Provide **one concise phrase** per sub-capability.
+- Output each phrase as a standalone phrase with **no additional text, prefixes, symbols, or notations** on any line. For example, do NOT include numbered list markers, numerical prefixes, or numeric labels (e.g., '1.', '2.', etc.) in the output.
+- Always output exactly {num_sub_capabilities} lines, each containing a single phrase.
+<|im_end|>
