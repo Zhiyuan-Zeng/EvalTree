@@ -1,0 +1,28 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "97 / 97 = 1.00000",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "126 / 135 = 0.93333",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "117 / 128 = 0.91406",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "199 / 255 = 0.78039",
+      "Solving probability problems using geometric probability.": "25 / 25 = 1.00000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "24 / 130 = 0.18462",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "31 / 168 = 0.18452",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "27 / 27 = 1.00000",
+      "Analyzing quadratic inequalities through factoring.": "8 / 84 = 0.09524",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "58 / 111 = 0.52252"
+    },
+    "average": 0.661468780209589
+  },
+  "Precision": {
+    "per-capability": {
+      "Understanding and applying number theory concepts, including prime factorization and modular arithmetic": "203 / 351 = 0.57835",
+      "Understanding and manipulating complex numbers and their properties": "107 / 195 = 0.54872",
+      "Calculating combinations, permutations, and applying counting principles": "141 / 338 = 0.41716",
+      "Calculating areas, volumes, and perimeters of geometric shapes": "155 / 441 = 0.35147",
+      "Calculating probabilities and utilizing statistical methods for data analysis": "40 / 178 = 0.22472"
+    },
+    "average": 0.4240836628810453
+  },
+  "harmonic mean (F1)": 0.5168209145089064
+}

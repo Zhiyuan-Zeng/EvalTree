@@ -1,0 +1,34 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "96 / 97 = 0.98969",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "119 / 135 = 0.88148",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "114 / 128 = 0.89062",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "73 / 255 = 0.28627",
+      "Solving probability problems using geometric probability.": "24 / 25 = 0.96000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "130 / 130 = 1.00000",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "166 / 168 = 0.98810",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "16 / 27 = 0.59259",
+      "Analyzing quadratic inequalities through factoring.": "79 / 84 = 0.94048",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "29 / 111 = 0.26126"
+    },
+    "average": 0.779049699536017
+  },
+  "Precision": {
+    "per-capability": {
+      "Handling problems involving the geometry of three-dimensional figures, including volume and surface area calculations.": "106 / 114 = 0.92982",
+      "Understanding and manipulating complex numbers, including their magnitudes and arguments.": "87 / 148 = 0.58784",
+      "Handling polynomial equations and their roots, including factoring and using Vieta's formulas.": "246 / 539 = 0.45640",
+      "Understanding and applying the properties of trigonometric functions and their transformations.": "183 / 330 = 0.55455",
+      "Solving problems involving probability and combinatorics, including counting principles and probability calculations.": "147 / 423 = 0.34752",
+      "Understanding and applying the properties of rational functions, including asymptotes and domain restrictions.": "22 / 86 = 0.25581",
+      "Understanding and applying the properties of roots and radicals in algebraic expressions.": "200 / 696 = 0.28736",
+      "Handling modular arithmetic and congruences in number theory problems.": "44 / 266 = 0.16541",
+      "Handling inequalities and applying the AM-GM inequality in optimization problems.": "20 / 100 = 0.20000",
+      "Understanding and applying the properties of functions, including domain, range, and composition.": "71 / 371 = 0.19137",
+      "Solving problems involving maximum and minimum values of functions.": "54 / 252 = 0.21429"
+    },
+    "average": 0.38094277390171016
+  },
+  "harmonic mean (F1)": 0.5116815157757593
+}

@@ -1,0 +1,39 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "97 / 97 = 1.00000",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "135 / 135 = 1.00000",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "128 / 128 = 1.00000",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "252 / 255 = 0.98824",
+      "Solving probability problems using geometric probability.": "25 / 25 = 1.00000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "130 / 130 = 1.00000",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "168 / 168 = 1.00000",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "27 / 27 = 1.00000",
+      "Analyzing quadratic inequalities through factoring.": "84 / 84 = 1.00000",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "110 / 111 = 0.99099"
+    },
+    "average": 0.9979226285108638
+  },
+  "Precision": {
+    "per-capability": {
+      "Understanding and applying number theory concepts, including prime factorization and modular arithmetic": "203 / 351 = 0.57835",
+      "Understanding and manipulating complex numbers and their properties": "107 / 195 = 0.54872",
+      "Calculating combinations, permutations, and applying counting principles": "141 / 338 = 0.41716",
+      "Calculating probabilities and utilizing statistical methods for data analysis": "40 / 178 = 0.22472",
+      "Calculating areas, volumes, and perimeters of geometric shapes": "155 / 441 = 0.35147",
+      "Employing logical reasoning and problem-solving strategies": "1023 / 4949 = 0.20671",
+      "Solving linear, polynomial, and quadratic equations, including factoring and roots": "316 / 1242 = 0.25443",
+      "Applying optimization techniques and inequalities in problem-solving": "80 / 324 = 0.24691",
+      "Understanding and applying properties of functions, including logarithmic, exponential, and trigonometric functions": "196 / 440 = 0.44545",
+      "Analyzing and solving inequalities and systems of equations": "142 / 645 = 0.22016",
+      "Evaluating functions, including compositions, inverses, and determining domains and ranges": "50 / 314 = 0.15924",
+      "Analyzing sequences, series, and their properties": "39 / 305 = 0.12787",
+      "Translating word problems into mathematical equations and expressions": "423 / 1947 = 0.21726",
+      "Evaluating limits, continuity, and properties of functions in calculus": "2 / 47 = 0.04255",
+      "Applying vector operations and understanding geometric interpretations": "42 / 245 = 0.17143",
+      "Simplifying expressions and performing operations with fractions, decimals, and rational numbers": "325 / 1753 = 0.18540"
+    },
+    "average": 0.2748636445325501
+  },
+  "harmonic mean (F1)": 0.43101132757839256
+}

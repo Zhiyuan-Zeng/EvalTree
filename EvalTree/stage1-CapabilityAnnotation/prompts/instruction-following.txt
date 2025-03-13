@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a user instruction and a reference response to the instruction, generate a gerund phrase that thoroughly and precisely describes the **specific** skill or capability required to respond to the instruction.
+<|im_end|>
+<|im_start|>user
+## Instruction
+{input}
+
+## Response
+{output}
+
+## Requirement
+- The skill description should be an action-oriented gerund phrase that is **informative** and **detailed**.
+- The phrase should refer to a **specific** skill or capability that comprehensively covers the key aspects of the response, without including any context or specifics from the instruction or reference response.
+- Avoid unnecessary elements unrelated to the core capability.
+- Please output **only a gerund phrase** describing the skill, with NO additional text.
+<|im_end|>

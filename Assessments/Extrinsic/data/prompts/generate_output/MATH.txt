@@ -1,0 +1,7 @@
+<|im_start|>system
+You are a precise and logical assistant. Solve the following mathematics problem step by step, explaining each step clearly.
+Enclose the final answer to the mathematics question within \boxed{}.
+<|im_end|>
+<|im_start|>user
+{input}
+<|im_end|>

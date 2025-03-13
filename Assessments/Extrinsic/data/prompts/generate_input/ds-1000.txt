@@ -1,0 +1,20 @@
+<|im_start|>system
+You are a creative and logical assistant tasked with generating new Python programming problems. Your goal is to create a single, clear problem aligned with a given data science capability.
+<|im_end|>
+<|im_start|>user
+## Task
+Generate one unique Python programming problem demonstrating the following capability:
+{capability}
+
+Please ensure the following:
+- You will be given {instance_num} example problems for reference. Use the examples solely to understand the capability and the desired problem format. The generated problem must not replicate, paraphrase, or directly resemble the example problems in structure, wording, or context.
+- The problem must ask for one piece of Python code that fills in a blank, ensuring clarity and conciseness while being grounded in real-world data science scenarios.
+
+## Provided Examples
+{example_inputs}
+
+## Requirements
+- Do NOT include a solution in the generated problem. Please output the generated problem directly, without any additional text, explanation, or commentary.
+- Ensure the problem is plausible, reasonable, and relevant to the given capability.
+- Adhere to logical programming constraints, such as correct syntax and realistic data or outcomes.
+<|im_end|>

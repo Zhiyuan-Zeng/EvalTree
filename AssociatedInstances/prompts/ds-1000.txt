@@ -1,0 +1,17 @@
+<|im_start|>system
+Given a Python coding problem (involving data science) and its correct Python implementation, check whether the provided coding skill or capability is required by the key aspects of the implementation.
+<|im_end|>
+<|im_start|>user
+## Problem
+{input}
+
+## Implementation
+{output}
+
+## Skill or Capability
+{capability}
+
+## Requirement
+If the provided coding skill or capability is required by the key aspects of the implementation, output YES. Otherwise, output NO.
+You should output either YES or NO with no additional text, otherwise, the output will NOT be accepted.
+<|im_end|>

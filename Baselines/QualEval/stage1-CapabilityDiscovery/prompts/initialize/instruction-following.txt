@@ -1,0 +1,15 @@
+<|im_start|>system
+Given a set of user instructions and their corresponding reference responses, identify the high-level capabilities required to respond effectively to these instructions. Group similar capabilities where relevant.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given {instance_num} user instructions and their corresponding reference responses. Identify the high-level capabilities required to respond effectively to these instructions, summarizing any related capabilities under broader categories.
+
+## User Instructions and Reference Responses
+{inputs_and_outputs}
+
+## Requirements
+- Each capability should be an **informative and detailed phrase** that refers to a **specific skill or capability** comprehensively covering key aspects of the response, without including any specifics from the instructions or reference responses.
+- Where possible, group related capabilities under a single broader capability.
+- Output each capability as a standalone phrase, with **no additional text, prefixes, symbols, or notations** on any line.
+<|im_end|>

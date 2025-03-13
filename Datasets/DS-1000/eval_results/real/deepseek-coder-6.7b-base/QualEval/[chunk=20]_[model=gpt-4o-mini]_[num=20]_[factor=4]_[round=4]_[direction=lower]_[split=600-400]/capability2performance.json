@@ -1,0 +1,82 @@
+[
+  [
+    "Implementing custom functions for reusable code and specific data processing tasks",
+    0.16842105263157894
+  ],
+  [
+    "Utilizing TensorFlow and PyTorch for tensor manipulation and model training",
+    0.20689655172413793
+  ],
+  [
+    "String manipulation and parsing in Python and pandas for data extraction",
+    0.21739130434782608
+  ],
+  [
+    "Handling complex data structures and operations, including sparse matrices and tensors",
+    0.22727272727272727
+  ],
+  [
+    "Time series data manipulation and analysis",
+    0.24444444444444444
+  ],
+  [
+    "Performing statistical calculations efficiently without explicit loops",
+    0.25
+  ],
+  [
+    "Advanced indexing, slicing, and logical operations in NumPy and pandas",
+    0.2786885245901639
+  ],
+  [
+    "Data manipulation, analysis, and preprocessing using pandas, including cleaning, filtering, and handling missing values",
+    0.2962962962962963
+  ],
+  [
+    "Statistical analysis, hypothesis testing, and distribution analysis using SciPy and pandas",
+    0.3023255813953488
+  ],
+  [
+    "Error handling and debugging in Python for data integrity",
+    0.3389830508474576
+  ],
+  [
+    "Implementing optimization techniques for minimizing distances in multi-dimensional space",
+    0.34375
+  ],
+  [
+    "Creating and managing MultiIndex DataFrames in pandas for hierarchical data",
+    0.34782608695652173
+  ],
+  [
+    "Data preprocessing techniques including normalization, scaling, and encoding categorical variables",
+    0.35135135135135137
+  ],
+  [
+    "Feature extraction and vectorization from text data using natural language processing",
+    0.3939393939393939
+  ],
+  [
+    "Efficient manipulation and transformation of multi-dimensional arrays using NumPy and SciPy",
+    0.3958333333333333
+  ],
+  [
+    "Machine learning techniques using scikit-learn, including model training and evaluation",
+    0.4
+  ],
+  [
+    "Creating and managing data pipelines for preprocessing and transforming data",
+    0.42105263157894735
+  ],
+  [
+    "Combining, merging, and managing data from multiple sources while retaining specific columns",
+    0.43243243243243246
+  ],
+  [
+    "Data visualization and customization using Matplotlib and Seaborn",
+    0.5277777777777778
+  ],
+  [
+    "Generating random samples and controlling distributions for testing and simulation",
+    0.55
+  ]
+]

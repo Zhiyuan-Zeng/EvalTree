@@ -1,0 +1,17 @@
+<|im_start|>system
+Given a user instruction and a reference response to the instruction, check whether the provided skill or capability is required by the key aspects of responding to the instruction.
+<|im_end|>
+<|im_start|>user
+## Instruction
+{input}
+
+## Response
+{output}
+
+## Skill or Capability
+{capability}
+
+## Requirement
+If the provided skill or capability is required by the key aspects of responding to the instruction, output YES. Otherwise, output NO.
+You should output either YES or NO with no additional text, otherwise, the output will NOT be accepted.
+<|im_end|>

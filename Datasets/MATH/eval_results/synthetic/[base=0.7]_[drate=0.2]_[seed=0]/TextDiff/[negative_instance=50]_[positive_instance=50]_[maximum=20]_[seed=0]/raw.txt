@@ -1,0 +1,39 @@
+Understanding and applying transformations of functions.
+
+Solving equations involving trigonometric identities and simplifications.
+
+Handling complex numbers and their operations.
+
+Applying the Law of Cosines and Law of Sines in non-right triangles.
+
+Understanding and manipulating logarithmic expressions and equations.
+
+Solving problems involving geometric sequences and series.
+
+Applying the properties of matrices, including matrix multiplication and inverses.
+
+Understanding and applying the binomial theorem and binomial expansions.
+
+Solving problems involving combinatorics and permutations.
+
+Handling problems involving divisibility and modular arithmetic.
+
+Understanding and applying the properties of quadratic equations and their roots.
+
+Solving problems involving the geometry of circles and triangles, including the use of altitudes and medians.
+
+Understanding and applying the properties of perfect squares and their factorizations.
+
+Handling problems involving the calculation of areas and volumes of geometric shapes.
+
+Understanding and applying the properties of arithmetic and geometric means.
+
+Solving problems involving the properties of prime numbers and their factorizations.
+
+Handling problems involving the calculation of probabilities and combinatorial counting.
+
+Understanding and applying the properties of rational and irrational numbers.
+
+Solving problems involving the properties of sequences and series, including telescoping series.
+
+Handling problems involving the properties of polynomials and their roots.

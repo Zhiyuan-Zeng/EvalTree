@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a mathematical question and its correct solution, generate a gerund phrase that thoroughly and precisely describes the **specific** mathematical skill or capability required to solve the question.
+<|im_end|>
+<|im_start|>user
+## Question
+{input}
+
+## Solution
+{output}
+
+## Requirement
+- The skill description should be an action-oriented gerund phrase that is **informative** and **detailed**.
+- The phrase should refer to a **specific** skill or capability that comprehensively covers the key aspects of the solution, without including any context or specifics from the question or solution.
+- Avoid unnecessary elements unrelated to the core capability.
+- Please output **only a gerund phrase** describing the skill, with NO additional text.
+<|im_end|>

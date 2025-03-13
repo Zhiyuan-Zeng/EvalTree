@@ -1,0 +1,43 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "97 / 97 = 1.00000",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "131 / 135 = 0.97037",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "127 / 128 = 0.99219",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "255 / 255 = 1.00000",
+      "Solving probability problems using geometric probability.": "19 / 25 = 0.76000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "130 / 130 = 1.00000",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "168 / 168 = 1.00000",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "20 / 27 = 0.74074",
+      "Analyzing quadratic inequalities through factoring.": "81 / 84 = 0.96429",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "110 / 111 = 0.99099"
+    },
+    "average": 0.9418575316387816
+  },
+  "Precision": {
+    "per-capability": {
+      "Calculating and applying combinatorial techniques for diverse group arrangements and distributions.": "141 / 322 = 0.43789",
+      "Manipulating and applying matrix operations and properties for transformations and evaluations.": "7 / 113 = 0.06195",
+      "Simplifying and solving trigonometric and complex expressions using algebraic manipulation, identities, and properties of periodic functions.": "198 / 296 = 0.66892",
+      "Manipulating and solving complex numbers through algebraic expressions and identities.": "119 / 212 = 0.56132",
+      "Analyzing and manipulating polynomial expressions and functions to evaluate and find roots.": "316 / 1045 = 0.30239",
+      "Analyzing and applying relationships among polynomial expressions and their roots using Vieta's formulas.": "138 / 157 = 0.87898",
+      "Solving and manipulating rational, algebraic, and quadratic equations.": "374 / 1695 = 0.22065",
+      "Manipulating and solving polynomial equations using algebraic techniques and complex number theory.": "119 / 188 = 0.63298",
+      "Analyzing inequalities and determining valid input ranges for functions through root extraction techniques.": "96 / 277 = 0.34657",
+      "Analyzing and applying properties of divisibility, prime factorization, and integer relationships to evaluate and compute mathematical solutions.": "313 / 724 = 0.43232",
+      "Analyzing and applying prime factorization, divisibility, and the relationships between greatest common divisors and least common multiples to solve mathematical problems.": "276 / 350 = 0.78857",
+      "Analyzing and calculating prime factorization and divisibility within factorials.": "163 / 170 = 0.95882",
+      "Applying number theory to analyze coprimality, prime factorization, and divisibility of integers.": "283 / 421 = 0.67221",
+      "Analyzing and calculating prime numbers and whole numbers through factorization and divisor techniques.": "245 / 324 = 0.75617",
+      "Analyzing prime factorization to achieve perfect powers and cubes.": "36 / 63 = 0.57143",
+      "Factoring integers and polynomials to analyze prime components, apply properties of exponents, and identify valid combinations.": "327 / 657 = 0.49772",
+      "Simplifying trigonometric expressions using product-to-sum and sum-to-product identities.": "26 / 26 = 1.00000",
+      "Applying and analyzing trigonometric identities, properties, and relationships to solve geometric and algebraic problems involving angles, dimensions, and optimization.": "174 / 322 = 0.54037",
+      "Analyzing, optimizing, and solving geometric relationships and properties through algebraic, calculus, and numerical techniques.": "262 / 1210 = 0.21653",
+      "Calculating and analyzing geometric properties and volumes of three-dimensional shapes using formulas and algebraic manipulation.": "131 / 217 = 0.60369"
+    },
+    "average": 0.5574738531858994
+  },
+  "harmonic mean (F1)": 0.7003934588833113
+}

@@ -1,0 +1,27 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "63 / 97 = 0.64948",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "3 / 135 = 0.02222",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "13 / 128 = 0.10156",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "249 / 255 = 0.97647",
+      "Solving probability problems using geometric probability.": "0 / 25 = 0.00000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "129 / 130 = 0.99231",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "165 / 168 = 0.98214",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "1 / 27 = 0.03704",
+      "Analyzing quadratic inequalities through factoring.": "55 / 84 = 0.65476",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "100 / 111 = 0.90090"
+    },
+    "average": 0.5316890238690383
+  },
+  "Precision": {
+    "per-capability": {
+      "Simplifying and solving equations through algebraic manipulation and the application of trigonometric identities.": "197 / 322 = 0.61180",
+      "Analyzing and applying Vieta's formulas to explore relationships among polynomial roots and coefficients.": "127 / 129 = 0.98450",
+      "Analyzing and applying prime factorization, divisibility, and the relationships between greatest common divisors and least common multiples to solve mathematical problems.": "276 / 350 = 0.78857",
+      "Factoring integers and polynomials to analyze prime components, apply properties of exponents, and identify valid combinations.": "327 / 657 = 0.49772"
+    },
+    "average": 0.7206464224539075
+  },
+  "harmonic mean (F1)": 0.6119123978072333
+}

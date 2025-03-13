@@ -1,0 +1,5 @@
+{
+    "input" : "[input-generation=gpt-4o-mini]",
+    "capability_path" : "Assessments/Extrinsic/data/generic-capability/DS-1000.json",
+    "output" : "[output-generation=gpt-4o-mini]"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "capability": "Implementing custom metrics and loss functions in TensorFlow.",
+    "instances": [
+      668,
+      669,
+      670,
+      671,
+      690
+    ]
+  },
+  {
+    "capability": "Implementing custom data augmentation and preprocessing techniques in PyTorch.",
+    "instances": [
+      996
+    ]
+  },
+  {
+    "capability": "Utilizing advanced data imputation and filling techniques in pandas.",
+    "instances": [
+      44,
+      45,
+      56,
+      57,
+      58,
+      60,
+      108,
+      109,
+      211,
+      237,
+      238,
+      239
+    ]
+  },
+  {
+    "capability": "Handling complex data merging and joining operations in pandas.",
+    "instances": [
+      42,
+      50,
+      52,
+      53,
+      57,
+      66,
+      67,
+      108,
+      109,
+      123,
+      124,
+      125,
+      164,
+      185,
+      187,
+      219,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      242,
+      243,
+      255,
+      263,
+      289,
+      290,
+      464,
+      465,
+      466,
+      779,
+      823,
+      830
+    ]
+  },
+  {
+    "capability": "Utilizing PyTorch for dynamic tensor operations and manipulations.",
+    "instances": [
+      377,
+      378,
+      933,
+      937,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947,
+      948,
+      950,
+      951,
+      953,
+      954,
+      955,
+      957,
+      958,
+      961,
+      963,
+      964,
+      968,
+      969,
+      972,
+      973,
+      974,
+      975,
+      976,
+      977,
+      978,
+      979,
+      983,
+      987,
+      989,
+      990,
+      991,
+      995,
+      996,
+      999
+    ]
+  }
+]

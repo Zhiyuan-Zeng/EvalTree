@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a multiple-choice question testing a model's wide-ranging knowledge and reasoning skills, generate a gerund phrase that thoroughly and precisely describes the **specific** skill or capability required to determine the correct answer.
+<|im_end|>
+<|im_start|>user
+## Question
+{input}
+
+## Answer
+{output}
+
+## Requirement
+- The skill description should be an action-oriented gerund phrase that is **informative** and **detailed**.
+- The phrase should refer to a **specific** skill or capability that comprehensively covers the key aspects of selecting the correct answer, without including any context or specifics from the question or answer.
+- Avoid unnecessary elements unrelated to the core capability.
+- Please output **only a gerund phrase** describing the skill, with NO additional text.
+<|im_end|>

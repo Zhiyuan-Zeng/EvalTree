@@ -1,0 +1,37 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "116 / 119 = 0.97479",
+      "Proficiency in editing and proofreading for academic papers.": "263 / 275 = 0.95636",
+      "Financial forecasting and risk analysis.": "89 / 93 = 0.95699",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "189 / 274 = 0.68978",
+      "Game mechanics design and balancing.": "90 / 91 = 0.98901",
+      "Crisis communication management by media response crafting.": "94 / 94 = 1.00000",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "101 / 127 = 0.79528",
+      "Helping the users with their own mental health.": "149 / 154 = 0.96753",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "368 / 372 = 0.98925",
+      "Event planning by logistical coordination.": "83 / 96 = 0.86458"
+    },
+    "average": 0.918357351379559
+  },
+  "Precision": {
+    "per-capability": {
+      "Evaluating and advocating for ethical accountability across diverse contexts and practices.": "270 / 400 = 0.67500",
+      "Evaluating and ensuring content appropriateness, compliance, and ethical standards.": "305 / 851 = 0.35840",
+      "Analyzing and evaluating financial data for informed decision-making and investment assessment.": "89 / 143 = 0.62238",
+      "Managing and analyzing financial strategies for sustainable growth and tailored investment opportunities.": "58 / 79 = 0.73418",
+      "Designing and implementing interactive and adaptive game mechanics with advanced programming, visual effects, and character systems for immersive user experiences.": "33 / 37 = 0.89189",
+      "Creating innovative and engaging game concepts with diverse mechanics and design approaches.": "68 / 110 = 0.61818",
+      "Crafting immersive and strategic content for role-playing games.": "109 / 634 = 0.17192",
+      "Upholding and promoting ethical standards in content creation.": "371 / 922 = 0.40239",
+      "Empathizing and providing emotional support through compassionate communication and gentle gestures.": "293 / 1421 = 0.20619",
+      "Navigating ethical and legal standards while ensuring digital privacy compliance.": "145 / 288 = 0.50347",
+      "Designing and developing user-friendly interactive interfaces with advanced features and effective validation systems.": "88 / 139 = 0.63309",
+      "Creating responsive and user-friendly web solutions through effective design and development techniques.": "78 / 114 = 0.68421",
+      "Designing and mastering modular object-oriented software architectures and programming techniques.": "109 / 122 = 0.89344",
+      "Rephrasing and refining complex information for clarity, precision, and effective communication.": "1004 / 6092 = 0.16481"
+    },
+    "average": 0.5399684897938147
+  },
+  "harmonic mean (F1)": 0.680073023620672
+}

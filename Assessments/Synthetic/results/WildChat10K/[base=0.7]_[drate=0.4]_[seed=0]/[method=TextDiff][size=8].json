@@ -1,0 +1,31 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "108 / 119 = 0.90756",
+      "Proficiency in editing and proofreading for academic papers.": "202 / 275 = 0.73455",
+      "Financial forecasting and risk analysis.": "84 / 93 = 0.90323",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "272 / 274 = 0.99270",
+      "Game mechanics design and balancing.": "77 / 91 = 0.84615",
+      "Crisis communication management by media response crafting.": "79 / 94 = 0.84043",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "119 / 127 = 0.93701",
+      "Helping the users with their own mental health.": "114 / 154 = 0.74026",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "330 / 372 = 0.88710",
+      "Event planning by logistical coordination.": "59 / 96 = 0.61458"
+    },
+    "average": 0.8403562116005269
+  },
+  "Precision": {
+    "per-capability": {
+      "Handling and responding to user queries involving sensitive or controversial topics.": "416 / 1157 = 0.35955",
+      "Managing and organizing complex data structures or information hierarchies.": "150 / 556 = 0.26978",
+      "Utilizing advanced programming concepts and technical details accurately.": "357 / 1465 = 0.24369",
+      "Providing accurate and contextually appropriate translations or language adaptations.": "114 / 491 = 0.23218",
+      "Interpreting and responding to user queries involving abstract or philosophical concepts.": "200 / 835 = 0.23952",
+      "Understanding and applying complex mathematical concepts and calculations.": "96 / 461 = 0.20824",
+      "Providing detailed and contextually appropriate explanations for technical processes.": "510 / 2822 = 0.18072",
+      "Synthesizing information from multiple sources to provide comprehensive answers.": "571 / 3316 = 0.17220"
+    },
+    "average": 0.23823527290967733
+  },
+  "harmonic mean (F1)": 0.371229504937001
+}

@@ -1,0 +1,7 @@
+<|im_start|>system
+Write a short code following the given format and indentation. Place the executable code between <code> and </code> tags, without any other non-executable things.
+Please provide ONLY the code completion needed. Do NOT repeat the context code.
+<|im_end|>
+<|im_start|>user
+{input}
+<|im_end|>

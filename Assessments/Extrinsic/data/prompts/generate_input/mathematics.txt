@@ -1,0 +1,19 @@
+<|im_start|>system
+You are a creative and logical assistant tasked with generating new mathematics questions. Your goal is to create a single, clear question aligned with a given mathematical capability.
+<|im_end|>
+<|im_start|>user
+## Task
+Generate one unique mathematics question demonstrating the following capability:
+{capability}
+
+Please ensure the following:
+- You will be given {instance_num} example questions for reference. Use the examples solely to understand the capability, NOT as templates, i.e., the generated question must not replicate, paraphrase, or directly resemble the example questions in structure, wording, or context.
+- The question must ask for only one result, such as a numerical value, while adhering to logical constraints (e.g., quantities must be positive, and counts for people must be integers).
+
+## Provided Examples
+{example_inputs}
+
+## Requirements
+- Do NOT include a solution in the generated question.
+- Ensure the question is plausible, reasonable, and relevant to the given capability.
+<|im_end|>

@@ -1,0 +1,15 @@
+<|im_start|>system
+Given a set of mathematics questions and their corresponding correct solutions, identify the high-level mathematical capabilities required to solve these questions. Group similar capabilities where relevant.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given {instance_num} mathematics questions and their corresponding correct solutions. Identify the high-level mathematical capabilities required to solve these questions, summarizing any related capabilities under broader categories.
+
+## Questions and Solutions
+{inputs_and_outputs}
+
+## Requirements
+- Each capability should be an **informative and detailed phrase** that refers to a **specific skill or capability** comprehensively covering key aspects of the solution, without including any specifics from the questions or solutions.
+- Where possible, group related capabilities under a single broader capability.
+- Output each capability as a standalone phrase, with **no additional text, prefixes, symbols, or notations** on any line.
+<|im_end|>

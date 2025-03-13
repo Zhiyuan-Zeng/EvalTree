@@ -1,0 +1,29 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "94 / 97 = 0.96907",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "30 / 135 = 0.22222",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "22 / 128 = 0.17188",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "250 / 255 = 0.98039",
+      "Solving probability problems using geometric probability.": "17 / 25 = 0.68000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "130 / 130 = 1.00000",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "79 / 168 = 0.47024",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "11 / 27 = 0.40741",
+      "Analyzing quadratic inequalities through factoring.": "79 / 84 = 0.94048",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "99 / 111 = 0.89189"
+    },
+    "average": 0.6733575129047006
+  },
+  "Precision": {
+    "per-capability": {
+      "Analyzing and calculating complex numbers through polar coordinates, polynomial equations, and algebraic manipulation.": "103 / 119 = 0.86555",
+      "Analyzing relationships and finding solutions in polynomial, trigonometric, quadratic, and rational expressions using Vieta's formulas and the quadratic formula.": "233 / 455 = 0.51209",
+      "Solving and manipulating algebraic, quadratic, and probability equations.": "313 / 1476 = 0.21206",
+      "Analyzing and applying prime factorization, divisibility, and the relationships between greatest common divisors and least common multiples to solve mathematical problems.": "276 / 350 = 0.78857",
+      "Analyzing and calculating prime numbers and whole numbers through factorization and divisor techniques.": "245 / 324 = 0.75617",
+      "Factoring integers and polynomials to analyze prime components, apply properties of exponents, and identify valid combinations.": "327 / 657 = 0.49772"
+    },
+    "average": 0.6053591523710472
+  },
+  "harmonic mean (F1)": 0.637550357047649
+}

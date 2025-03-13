@@ -1,0 +1,27 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "72 / 119 = 0.60504",
+      "Proficiency in editing and proofreading for academic papers.": "19 / 275 = 0.06909",
+      "Financial forecasting and risk analysis.": "29 / 93 = 0.31183",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "10 / 274 = 0.03650",
+      "Game mechanics design and balancing.": "22 / 91 = 0.24176",
+      "Crisis communication management by media response crafting.": "39 / 94 = 0.41489",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "55 / 127 = 0.43307",
+      "Helping the users with their own mental health.": "63 / 154 = 0.40909",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "123 / 372 = 0.33065",
+      "Event planning by logistical coordination.": "66 / 96 = 0.68750"
+    },
+    "average": 0.3539416028554325
+  },
+  "Precision": {
+    "per-capability": {
+      "Understanding of user experience design and digital platforms": "92 / 173 = 0.53179",
+      "Competence in project management and organizational skills": "124 / 328 = 0.37805",
+      "Crisis management and conflict resolution expertise": "201 / 602 = 0.33389",
+      "Utilizing data analytics for program effectiveness and improvement": "63 / 118 = 0.53390"
+    },
+    "average": 0.4444065090690925
+  },
+  "harmonic mean (F1)": 0.3940485354443284
+}

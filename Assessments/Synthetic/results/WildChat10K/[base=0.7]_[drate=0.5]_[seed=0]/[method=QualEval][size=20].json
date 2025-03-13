@@ -1,0 +1,43 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "116 / 119 = 0.97479",
+      "Proficiency in editing and proofreading for academic papers.": "274 / 275 = 0.99636",
+      "Financial forecasting and risk analysis.": "88 / 93 = 0.94624",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "251 / 274 = 0.91606",
+      "Game mechanics design and balancing.": "89 / 91 = 0.97802",
+      "Crisis communication management by media response crafting.": "94 / 94 = 1.00000",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "123 / 127 = 0.96850",
+      "Helping the users with their own mental health.": "154 / 154 = 1.00000",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "367 / 372 = 0.98656",
+      "Event planning by logistical coordination.": "96 / 96 = 1.00000"
+    },
+    "average": 0.976653356044519
+  },
+  "Precision": {
+    "per-capability": {
+      "Understanding of user experience design and digital platforms": "92 / 173 = 0.53179",
+      "Competence in project management and organizational skills": "124 / 328 = 0.37805",
+      "Crisis management and conflict resolution expertise": "201 / 602 = 0.33389",
+      "Utilizing data analytics for program effectiveness and improvement": "63 / 118 = 0.53390",
+      "Knowledge of research methodologies and data analysis": "150 / 399 = 0.37594",
+      "Creating and managing effective training and development programs": "10 / 63 = 0.15873",
+      "Skill in proofreading, editing, and summarizing information": "309 / 1406 = 0.21977",
+      "Creating engaging multimedia content and visual data representations": "34 / 170 = 0.20000",
+      "Proficiency in technical writing and clear articulation of complex concepts": "813 / 4254 = 0.19111",
+      "Empathy and sensitivity in interpersonal communication": "533 / 2801 = 0.19029",
+      "Cultural awareness and sensitivity in diverse contexts": "302 / 1240 = 0.24355",
+      "Collaboration with cross-functional teams in creative projects": "68 / 307 = 0.22150",
+      "Strong interpersonal communication and emotional intelligence": "453 / 3023 = 0.14985",
+      "Understanding of marketing strategies and consumer behavior": "59 / 331 = 0.17825",
+      "Ability to synthesize complex information into clear formats": "1112 / 6800 = 0.16353",
+      "Skill in persuasive communication and public speaking": "117 / 591 = 0.19797",
+      "Skill in creative writing, storytelling, and character development": "382 / 3188 = 0.11982",
+      "Effective communication and stakeholder engagement skills": "533 / 3127 = 0.17045",
+      "Ability to write structured and engaging content across various formats": "885 / 6154 = 0.14381",
+      "Ability to create and adapt content for diverse audiences": "601 / 3905 = 0.15391"
+    },
+    "average": 0.24280529361758965
+  },
+  "harmonic mean (F1)": 0.38892110846513783
+}

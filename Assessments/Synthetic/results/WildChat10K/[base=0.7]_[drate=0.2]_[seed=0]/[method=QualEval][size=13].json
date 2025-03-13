@@ -1,0 +1,36 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "95 / 119 = 0.79832",
+      "Proficiency in editing and proofreading for academic papers.": "273 / 275 = 0.99273",
+      "Financial forecasting and risk analysis.": "81 / 93 = 0.87097",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "203 / 274 = 0.74088",
+      "Game mechanics design and balancing.": "71 / 91 = 0.78022",
+      "Crisis communication management by media response crafting.": "91 / 94 = 0.96809",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "119 / 127 = 0.93701",
+      "Helping the users with their own mental health.": "152 / 154 = 0.98701",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "359 / 372 = 0.96505",
+      "Event planning by logistical coordination.": "92 / 96 = 0.95833"
+    },
+    "average": 0.8998603099208295
+  },
+  "Precision": {
+    "per-capability": {
+      "Understanding of user experience design and digital platforms": "92 / 173 = 0.53179",
+      "Crisis management and conflict resolution expertise": "201 / 602 = 0.33389",
+      "Competence in project management and organizational skills": "124 / 328 = 0.37805",
+      "Utilizing data analytics for program effectiveness and improvement": "63 / 118 = 0.53390",
+      "Knowledge of research methodologies and data analysis": "150 / 399 = 0.37594",
+      "Skill in proofreading, editing, and summarizing information": "309 / 1406 = 0.21977",
+      "Creating and managing effective training and development programs": "10 / 63 = 0.15873",
+      "Creating engaging multimedia content and visual data representations": "34 / 170 = 0.20000",
+      "Proficiency in technical writing and clear articulation of complex concepts": "813 / 4254 = 0.19111",
+      "Empathy and sensitivity in interpersonal communication": "533 / 2801 = 0.19029",
+      "Cultural awareness and sensitivity in diverse contexts": "302 / 1240 = 0.24355",
+      "Collaboration with cross-functional teams in creative projects": "68 / 307 = 0.22150",
+      "Strong interpersonal communication and emotional intelligence": "453 / 3023 = 0.14985"
+    },
+    "average": 0.28679767508824117
+  },
+  "harmonic mean (F1)": 0.4349658419692097
+}

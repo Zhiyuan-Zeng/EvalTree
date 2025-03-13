@@ -1,0 +1,17 @@
+<|im_start|>system
+Given a mathematical question and its correct solution, check whether the provided mathematics skill or capability is required by the key aspects of the solution.
+<|im_end|>
+<|im_start|>user
+## Question
+{input}
+
+## Solution
+{output}
+
+## Skill or Capability
+{capability}
+
+## Requirement
+If the provided mathematics skill or capability is required by the key aspects of the solution, output YES. Otherwise, output NO.
+You should output either YES or NO with no additional text, otherwise, the output will NOT be accepted.
+<|im_end|>

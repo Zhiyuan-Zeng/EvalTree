@@ -1,0 +1,28 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "95 / 97 = 0.97938",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "109 / 135 = 0.80741",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "4 / 128 = 0.03125",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "197 / 255 = 0.77255",
+      "Solving probability problems using geometric probability.": "19 / 25 = 0.76000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "20 / 130 = 0.15385",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "167 / 168 = 0.99405",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "11 / 27 = 0.40741",
+      "Analyzing quadratic inequalities through factoring.": "8 / 84 = 0.09524",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "93 / 111 = 0.83784"
+    },
+    "average": 0.5838964983691333
+  },
+  "Precision": {
+    "per-capability": {
+      "Applying the Euclidean algorithm to find the greatest common divisor.": "22 / 22 = 1.00000",
+      "Understanding and applying the properties of complex numbers, including operations and polar form.": "98 / 175 = 0.56000",
+      "Understanding and applying the properties of number theory, including divisibility and modular arithmetic.": "238 / 596 = 0.39933",
+      "Understanding and applying the properties of trigonometric functions and identities.": "182 / 323 = 0.56347",
+      "Understanding and applying the properties of probability and combinatorics.": "132 / 393 = 0.33588"
+    },
+    "average": 0.571734842783177
+  },
+  "harmonic mean (F1)": 0.5777516770423505
+}

@@ -1,0 +1,34 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "112 / 119 = 0.94118",
+      "Proficiency in editing and proofreading for academic papers.": "155 / 275 = 0.56364",
+      "Financial forecasting and risk analysis.": "92 / 93 = 0.98925",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "274 / 274 = 1.00000",
+      "Game mechanics design and balancing.": "87 / 91 = 0.95604",
+      "Crisis communication management by media response crafting.": "63 / 94 = 0.67021",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "101 / 127 = 0.79528",
+      "Helping the users with their own mental health.": "116 / 154 = 0.75325",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "328 / 372 = 0.88172",
+      "Event planning by logistical coordination.": "51 / 96 = 0.53125"
+    },
+    "average": 0.8081809641959421
+  },
+  "Precision": {
+    "per-capability": {
+      "Providing accurate and contextually appropriate psychological or mental health advice.": "103 / 148 = 0.69595",
+      "Providing accurate and contextually appropriate ethical or moral guidance.": "356 / 574 = 0.62021",
+      "Understanding and explaining financial concepts and market dynamics.": "119 / 296 = 0.40203",
+      "Understanding and explaining geopolitical concepts and international relations.": "41 / 167 = 0.24551",
+      "Providing accurate and contextually appropriate legal or regulatory advice.": "40 / 128 = 0.31250",
+      "Understanding and applying technical concepts in programming and software development.": "390 / 1651 = 0.23622",
+      "Understanding and explaining philosophical concepts and theories.": "77 / 236 = 0.32627",
+      "Generating detailed and contextually appropriate instructional or procedural content.": "697 / 3734 = 0.18666",
+      "Generating detailed and contextually appropriate technical documentation.": "251 / 1160 = 0.21638",
+      "Providing accurate and contextually appropriate medical or health-related advice.": "49 / 320 = 0.15313",
+      "Understanding and explaining historical events and their significance.": "65 / 488 = 0.13320"
+    },
+    "average": 0.32073152733236476
+  },
+  "harmonic mean (F1)": 0.4592191457755841
+}

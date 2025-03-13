@@ -1,0 +1,42 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "105 / 119 = 0.88235",
+      "Proficiency in editing and proofreading for academic papers.": "273 / 275 = 0.99273",
+      "Financial forecasting and risk analysis.": "89 / 93 = 0.95699",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "203 / 274 = 0.74088",
+      "Game mechanics design and balancing.": "89 / 91 = 0.97802",
+      "Crisis communication management by media response crafting.": "94 / 94 = 1.00000",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "104 / 127 = 0.81890",
+      "Helping the users with their own mental health.": "148 / 154 = 0.96104",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "370 / 372 = 0.99462",
+      "Event planning by logistical coordination.": "90 / 96 = 0.93750"
+    },
+    "average": 0.9263027606394523
+  },
+  "Precision": {
+    "per-capability": {
+      "Evaluating and advocating for ethical accountability across diverse contexts and practices.": "270 / 400 = 0.67500",
+      "Evaluating and ensuring content appropriateness, compliance, and ethical standards.": "305 / 851 = 0.35840",
+      "Navigating strategic analysis and innovative leadership in culturally diverse global business environments.": "19 / 39 = 0.48718",
+      "Evaluating financial contributions and data for equitable resource allocation and informed decision-making.": "67 / 100 = 0.67000",
+      "Managing and analyzing financial strategies for sustainable growth and tailored investment opportunities.": "58 / 79 = 0.73418",
+      "Designing and implementing interactive and adaptive game mechanics with advanced programming, visual effects, and character systems for immersive user experiences.": "33 / 37 = 0.89189",
+      "Creating innovative and engaging game concepts with diverse mechanics and design approaches.": "68 / 110 = 0.61818",
+      "Designing and developing engaging and interactive game mechanics for diverse experiences and community engagement.": "46 / 57 = 0.80702",
+      "Upholding and promoting ethical standards in content creation.": "371 / 922 = 0.40239",
+      "Fostering ethical practices, effective communication, and holistic well-being across diverse contexts.": "346 / 710 = 0.48732",
+      "Designing and developing user-friendly interactive interfaces with advanced features and effective validation systems.": "88 / 139 = 0.63309",
+      "Developing interactive graphical applications and games in Python with Pygame, including game logic implementation, user input validation, and dynamic visualization.": "20 / 21 = 0.95238",
+      "Designing and mastering modular object-oriented software architectures and programming techniques.": "109 / 122 = 0.89344",
+      "Mastering advanced programming techniques and data manipulation in C/C++": "31 / 106 = 0.29245",
+      "Adhering to ethical and content guidelines in creative and community-focused writing.": "504 / 2272 = 0.22183",
+      "Polishing written communication for clarity, conciseness, precision, and coherence while adhering to formal style.": "698 / 4116 = 0.16958",
+      "Enhancing clarity and coherence in scientific and technical writing through revision and editing.": "287 / 975 = 0.29436",
+      "Enhancing and refining written content for clarity, coherence, accuracy, and professionalism.": "794 / 5187 = 0.15307",
+      "Rephrasing and refining complex information for clarity, precision, and effective communication.": "1004 / 6092 = 0.16481"
+    },
+    "average": 0.5213991160688294
+  },
+  "harmonic mean (F1)": 0.6672277606045379
+}

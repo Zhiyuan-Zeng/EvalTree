@@ -1,0 +1,24 @@
+[
+  [
+    "Efficient manipulation and transformation of multi-dimensional arrays using NumPy and SciPy",
+    "Data manipulation, analysis, and preprocessing using pandas, including cleaning, filtering, and handling missing values",
+    "Data visualization and customization using Matplotlib and Seaborn",
+    "Statistical analysis, hypothesis testing, and distribution analysis using SciPy and pandas",
+    "Machine learning techniques using scikit-learn, including model training and evaluation",
+    "Time series data manipulation and analysis",
+    "Advanced indexing, slicing, and logical operations in NumPy and pandas",
+    "Feature extraction and vectorization from text data using natural language processing",
+    "Creating and managing data pipelines for preprocessing and transforming data",
+    "Error handling and debugging in Python for data integrity",
+    "Combining, merging, and managing data from multiple sources while retaining specific columns",
+    "Implementing optimization techniques for minimizing distances in multi-dimensional space",
+    "Utilizing TensorFlow and PyTorch for tensor manipulation and model training",
+    "String manipulation and parsing in Python and pandas for data extraction",
+    "Generating random samples and controlling distributions for testing and simulation",
+    "Implementing custom functions for reusable code and specific data processing tasks",
+    "Handling complex data structures and operations, including sparse matrices and tensors",
+    "Performing statistical calculations efficiently without explicit loops",
+    "Data preprocessing techniques including normalization, scaling, and encoding categorical variables",
+    "Creating and managing MultiIndex DataFrames in pandas for hierarchical data"
+  ]
+]

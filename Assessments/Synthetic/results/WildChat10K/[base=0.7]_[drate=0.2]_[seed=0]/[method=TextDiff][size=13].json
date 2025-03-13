@@ -1,0 +1,36 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "117 / 119 = 0.98319",
+      "Proficiency in editing and proofreading for academic papers.": "272 / 275 = 0.98909",
+      "Financial forecasting and risk analysis.": "92 / 93 = 0.98925",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "274 / 274 = 1.00000",
+      "Game mechanics design and balancing.": "91 / 91 = 1.00000",
+      "Crisis communication management by media response crafting.": "94 / 94 = 1.00000",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "127 / 127 = 1.00000",
+      "Helping the users with their own mental health.": "154 / 154 = 1.00000",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "372 / 372 = 1.00000",
+      "Event planning by logistical coordination.": "96 / 96 = 1.00000"
+    },
+    "average": 0.9961531498229791
+  },
+  "Precision": {
+    "per-capability": {
+      "Providing accurate and contextually appropriate legal or formal language.": "168 / 660 = 0.25455",
+      "Handling sensitive topics with appropriate care and consideration.": "606 / 2337 = 0.25931",
+      "Providing accurate and contextually relevant advice or recommendations.": "721 / 3721 = 0.19377",
+      "Providing accurate and contextually relevant technical explanations.": "652 / 3713 = 0.17560",
+      "Generating accurate and contextually appropriate summaries or paraphrases.": "243 / 1539 = 0.15789",
+      "Providing accurate and contextually relevant educational content.": "758 / 4672 = 0.16224",
+      "Understanding and applying specific formatting or stylistic guidelines.": "242 / 1601 = 0.15116",
+      "Understanding and interpreting complex user instructions accurately.": "1485 / 9407 = 0.15786",
+      "Generating accurate and contextually appropriate responses to hypothetical scenarios.": "727 / 4764 = 0.15260",
+      "Adapting writing style to match specific tone or genre requirements.": "615 / 4229 = 0.14542",
+      "Understanding and applying specific thematic or conceptual elements.": "1181 / 8099 = 0.14582",
+      "Providing accurate and contextually relevant creative writing content.": "719 / 5196 = 0.13838",
+      "Generating coherent and logical plot developments in narratives.": "343 / 2674 = 0.12827"
+    },
+    "average": 0.17098976192387963
+  },
+  "harmonic mean (F1)": 0.291878549256695
+}

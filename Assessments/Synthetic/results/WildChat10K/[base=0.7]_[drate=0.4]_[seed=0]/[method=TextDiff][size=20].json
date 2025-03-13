@@ -1,0 +1,43 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "118 / 119 = 0.99160",
+      "Proficiency in editing and proofreading for academic papers.": "275 / 275 = 1.00000",
+      "Financial forecasting and risk analysis.": "92 / 93 = 0.98925",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "274 / 274 = 1.00000",
+      "Game mechanics design and balancing.": "91 / 91 = 1.00000",
+      "Crisis communication management by media response crafting.": "94 / 94 = 1.00000",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "127 / 127 = 1.00000",
+      "Helping the users with their own mental health.": "154 / 154 = 1.00000",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "372 / 372 = 1.00000",
+      "Event planning by logistical coordination.": "95 / 96 = 0.98958"
+    },
+    "average": 0.9970427283816752
+  },
+  "Precision": {
+    "per-capability": {
+      "Handling and responding to user queries involving sensitive or controversial topics.": "416 / 1157 = 0.35955",
+      "Managing and organizing complex data structures or information hierarchies.": "150 / 556 = 0.26978",
+      "Utilizing advanced programming concepts and technical details accurately.": "357 / 1465 = 0.24369",
+      "Providing accurate and contextually appropriate translations or language adaptations.": "114 / 491 = 0.23218",
+      "Interpreting and responding to user queries involving abstract or philosophical concepts.": "200 / 835 = 0.23952",
+      "Understanding and applying complex mathematical concepts and calculations.": "96 / 461 = 0.20824",
+      "Providing detailed and contextually appropriate explanations for technical processes.": "510 / 2822 = 0.18072",
+      "Synthesizing information from multiple sources to provide comprehensive answers.": "571 / 3316 = 0.17220",
+      "Handling and interpreting nuanced emotional and psychological scenarios.": "393 / 2409 = 0.16314",
+      "Understanding and applying domain-specific terminology and concepts accurately.": "1019 / 6316 = 0.16134",
+      "Understanding and applying advanced linguistic structures and grammar rules.": "545 / 3343 = 0.16303",
+      "Recognizing and addressing implicit user needs or intentions in queries.": "627 / 3824 = 0.16396",
+      "Creating and maintaining consistent tone and style across varied content types.": "466 / 2950 = 0.15797",
+      "Providing accurate and contextually appropriate responses to user queries.": "1446 / 9330 = 0.15498",
+      "Adapting to and implementing specific user instructions or constraints effectively.": "1397 / 9254 = 0.15096",
+      "Generating concise and clear summaries of complex information or narratives.": "337 / 2334 = 0.14439",
+      "Demonstrating cultural and historical awareness in contextually relevant scenarios.": "226 / 1616 = 0.13985",
+      "Maintaining coherence and logical flow in extended dialogue or narrative sequences.": "803 / 5301 = 0.15148",
+      "Interpreting and responding to hypothetical or speculative scenarios with creativity.": "487 / 3677 = 0.13244",
+      "Generating creative and engaging fictional narratives with consistent character development.": "339 / 2670 = 0.12697"
+    },
+    "average": 0.1858195503246564
+  },
+  "harmonic mean (F1)": 0.313257147138003
+}

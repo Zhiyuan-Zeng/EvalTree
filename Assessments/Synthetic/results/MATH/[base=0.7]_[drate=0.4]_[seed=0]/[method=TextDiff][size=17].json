@@ -1,0 +1,40 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "97 / 97 = 1.00000",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "135 / 135 = 1.00000",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "126 / 128 = 0.98438",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "252 / 255 = 0.98824",
+      "Solving probability problems using geometric probability.": "25 / 25 = 1.00000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "130 / 130 = 1.00000",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "168 / 168 = 1.00000",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "27 / 27 = 1.00000",
+      "Analyzing quadratic inequalities through factoring.": "84 / 84 = 1.00000",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "111 / 111 = 1.00000"
+    },
+    "average": 0.9972610294117648
+  },
+  "Precision": {
+    "per-capability": {
+      "Applying the Euclidean algorithm to find the greatest common divisor.": "22 / 22 = 1.00000",
+      "Understanding and applying the properties of complex numbers, including operations and polar form.": "98 / 175 = 0.56000",
+      "Understanding and applying the properties of number theory, including divisibility and modular arithmetic.": "238 / 596 = 0.39933",
+      "Understanding and applying the properties of trigonometric functions and identities.": "182 / 323 = 0.56347",
+      "Understanding and applying the properties of probability and combinatorics.": "132 / 393 = 0.33588",
+      "Understanding and applying the properties of polynomials, including factoring and solving polynomial equations.": "280 / 814 = 0.34398",
+      "Solving inequalities and understanding their graphical representations.": "103 / 369 = 0.27913",
+      "Understanding and applying the properties of functions, including inverse functions and transformations.": "63 / 302 = 0.20861",
+      "Solving systems of equations with multiple variables and constraints.": "85 / 460 = 0.18478",
+      "Understanding and applying the properties of mathematical logic and reasoning, including proofs and problem-solving strategies.": "996 / 4631 = 0.21507",
+      "Understanding and applying the properties of algebraic expressions, including simplification and expansion.": "497 / 2467 = 0.20146",
+      "Understanding and applying the properties of three-dimensional geometry, including planes and vectors.": "50 / 175 = 0.28571",
+      "Understanding and applying the properties of geometric shapes and their transformations.": "190 / 920 = 0.20652",
+      "Performing arithmetic operations with fractions and rationalizing denominators.": "137 / 720 = 0.19028",
+      "Using the properties of logarithms and exponents in equations.": "10 / 77 = 0.12987",
+      "Understanding and applying the properties of matrices and determinants.": "5 / 67 = 0.07463",
+      "Understanding and applying the properties of vectors, including vector operations and projections.": "16 / 153 = 0.10458"
+    },
+    "average": 0.3107821642267982
+  },
+  "harmonic mean (F1)": 0.4738848724979837
+}

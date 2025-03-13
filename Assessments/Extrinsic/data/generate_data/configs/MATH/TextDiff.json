@@ -1,0 +1,5 @@
+{
+    "input" : "[input-generation=gpt-4o-mini]",
+    "capability_path" : "Datasets/MATH/eval_results/real/Llama-3.1-8B-Instruct/TextDiff/[negative_instance=50]_[positive_instance=50]_[maximum=20]_[seed=0]/[split=4k-1k]weakness-profiles_[size=9]_[with-instances].json",
+    "output" : "[output-generation=gpt-4o-mini]"
+}

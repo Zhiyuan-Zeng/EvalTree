@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a code generation problem (involving data science) and its correct Python implementation, generate a gerund phrase that thoroughly and precisely describes the coding skill or capability required to solve the problem in detail.
+<|im_end|>
+<|im_start|>user
+## Problem
+{input}
+
+## Implementation
+{output}
+
+## Requirement
+- The skill description should be an action-oriented gerund phrase that is **informative** and **detailed**.
+- The phrase should refer to a **specific** coding skill or capability that comprehensively covers the key aspects of the implementation, without including any context or specifics from the problem or implementation.
+- Avoid unnecessary elements unrelated to the core capability.
+- Please output **only a gerund phrase** describing the skill, with NO additional text.
+<|im_end|>

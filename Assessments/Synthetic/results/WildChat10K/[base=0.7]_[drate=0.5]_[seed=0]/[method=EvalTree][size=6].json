@@ -1,0 +1,29 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "24 / 119 = 0.20168",
+      "Proficiency in editing and proofreading for academic papers.": "19 / 275 = 0.06909",
+      "Financial forecasting and risk analysis.": "59 / 93 = 0.63441",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "111 / 274 = 0.40511",
+      "Game mechanics design and balancing.": "26 / 91 = 0.28571",
+      "Crisis communication management by media response crafting.": "63 / 94 = 0.67021",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "29 / 127 = 0.22835",
+      "Helping the users with their own mental health.": "42 / 154 = 0.27273",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "249 / 372 = 0.66935",
+      "Event planning by logistical coordination.": "13 / 96 = 0.13542"
+    },
+    "average": 0.3572061959029712
+  },
+  "Precision": {
+    "per-capability": {
+      "Evaluating and applying ethical principles across diverse professional and technological contexts.": "228 / 350 = 0.65143",
+      "Evaluating and ensuring content appropriateness, compliance, and ethical standards.": "305 / 851 = 0.35840",
+      "Evaluating financial contributions and data for equitable resource allocation and informed decision-making.": "67 / 100 = 0.67000",
+      "Developing interactive graphical applications and games in Python with Pygame, including game logic implementation, user input validation, and dynamic visualization.": "20 / 21 = 0.95238",
+      "Designing and mastering modular object-oriented software architectures and programming techniques.": "109 / 122 = 0.89344",
+      "Manipulating data structures and implementing aspect-oriented programming techniques in C/C++": "10 / 17 = 0.58824"
+    },
+    "average": 0.6856482201698335
+  },
+  "harmonic mean (F1)": 0.46970658354561856
+}

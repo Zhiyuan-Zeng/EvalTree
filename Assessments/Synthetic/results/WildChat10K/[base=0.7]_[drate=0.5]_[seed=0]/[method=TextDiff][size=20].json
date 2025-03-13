@@ -1,0 +1,43 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "115 / 119 = 0.96639",
+      "Proficiency in editing and proofreading for academic papers.": "238 / 275 = 0.86545",
+      "Financial forecasting and risk analysis.": "92 / 93 = 0.98925",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "274 / 274 = 1.00000",
+      "Game mechanics design and balancing.": "89 / 91 = 0.97802",
+      "Crisis communication management by media response crafting.": "84 / 94 = 0.89362",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "118 / 127 = 0.92913",
+      "Helping the users with their own mental health.": "150 / 154 = 0.97403",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "372 / 372 = 1.00000",
+      "Event planning by logistical coordination.": "84 / 96 = 0.87500"
+    },
+    "average": 0.9470887243496616
+  },
+  "Precision": {
+    "per-capability": {
+      "Providing accurate and contextually appropriate psychological or mental health advice.": "103 / 148 = 0.69595",
+      "Providing accurate and contextually appropriate ethical or moral guidance.": "356 / 574 = 0.62021",
+      "Understanding and explaining financial concepts and market dynamics.": "119 / 296 = 0.40203",
+      "Understanding and explaining geopolitical concepts and international relations.": "41 / 167 = 0.24551",
+      "Providing accurate and contextually appropriate legal or regulatory advice.": "40 / 128 = 0.31250",
+      "Understanding and applying technical concepts in programming and software development.": "390 / 1651 = 0.23622",
+      "Understanding and explaining philosophical concepts and theories.": "77 / 236 = 0.32627",
+      "Generating detailed and contextually appropriate instructional or procedural content.": "697 / 3734 = 0.18666",
+      "Generating detailed and contextually appropriate technical documentation.": "251 / 1160 = 0.21638",
+      "Providing accurate and contextually appropriate medical or health-related advice.": "49 / 320 = 0.15313",
+      "Understanding and explaining historical events and their significance.": "65 / 488 = 0.13320",
+      "Generating detailed and contextually appropriate academic content.": "528 / 2950 = 0.17898",
+      "Understanding and explaining mathematical concepts and problem-solving techniques.": "73 / 457 = 0.15974",
+      "Understanding and interpreting complex narratives and storylines.": "405 / 3058 = 0.13244",
+      "Generating creative and engaging fictional content with detailed character development.": "348 / 2730 = 0.12747",
+      "Interpreting and explaining scientific concepts and theories accurately.": "167 / 1050 = 0.15905",
+      "Generating coherent and contextually appropriate dialogue for characters.": "261 / 2173 = 0.12011",
+      "Identifying and explaining cultural references and nuances in text.": "97 / 870 = 0.11149",
+      "Understanding and explaining artistic concepts and creative processes.": "72 / 984 = 0.07317",
+      "Providing accurate and contextually appropriate translations between languages.": "7 / 111 = 0.06306"
+    },
+    "average": 0.23267827064706248
+  },
+  "harmonic mean (F1)": 0.3735771003351787
+}

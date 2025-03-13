@@ -1,0 +1,15 @@
+<|im_start|>system
+Given a set of phrases, each summarizing the coding skills or capabilities needed to solve code generation problems involving data science tasks within a specific group, generate a phrase that encapsulates the common coding skill or capability required across all the groups. The overall description should comprehensively cover each skill description without going beyond them, avoiding generic terms.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given a set of phrases, each summarizing the coding skills or capabilities needed to solve code generation problems involving data science tasks within a specific group. There are {group_number} groups in total. Your task is to **summarize** the common coding skill or capability that represents the union of these descriptions in a detailed and informative manner.
+
+## Skill Descriptions
+{skill_descriptions}
+
+## Requirements
+The output should be a **single phrase** that succinctly summarizes the overarching coding skill or capability shared across all groups. It should not introduce any new concepts outside of those described in the provided phrases and must remain informative.
+
+Please output **only a phrase** summarizing the skill or capability, with no additional text. Any output other than a phrase will NOT be accepted!
+<|im_end|>

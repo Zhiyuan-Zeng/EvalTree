@@ -1,0 +1,26 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Solving problems involving complex numbers and trigonometric identities, including the use of algebraic manipulation, polar forms, and exponentiation of complex numbers.": "11 / 97 = 0.11340",
+      "Analyzing combinatorial problems using counting principles and recurrence relations to count and analyze complex arrangements.": "1 / 135 = 0.00741",
+      "Applying geometric formulas to calculate areas, volumes, and other properties of three-dimensional shapes.": "4 / 128 = 0.03125",
+      "Analyzing numbers using prime factorization to solve problems involving divisibility and coprimality.": "249 / 255 = 0.97647",
+      "Solving probability problems using geometric probability.": "0 / 25 = 0.00000",
+      "Solving polynomial equations by analyzing relationships through Vieta\u2019s formulas.": "86 / 130 = 0.66154",
+      "Using trigonometric identities and polynomial identities to reduce complex expressions.": "20 / 168 = 0.11905",
+      "Involving geometric partitioning or area considerations to calculate probabilities.": "1 / 27 = 0.03704",
+      "Analyzing quadratic inequalities through factoring.": "17 / 84 = 0.20238",
+      "Applying the properties of divisibility to find common factors using the Greatest Common Divisor.": "95 / 111 = 0.85586"
+    },
+    "average": 0.30043899833582977
+  },
+  "Precision": {
+    "per-capability": {
+      "Analyzing and applying Vieta's formulas and the quadratic formula to determine relationships and properties of quadratic equations.": "115 / 174 = 0.66092",
+      "Analyzing and applying prime factorization, divisibility, and the relationships between greatest common divisors and least common multiples to solve mathematical problems.": "276 / 350 = 0.78857",
+      "Analyzing and calculating prime numbers and whole numbers through factorization and divisor techniques.": "245 / 324 = 0.75617"
+    },
+    "average": 0.7352212694358289
+  },
+  "harmonic mean (F1)": 0.4265667972756469
+}

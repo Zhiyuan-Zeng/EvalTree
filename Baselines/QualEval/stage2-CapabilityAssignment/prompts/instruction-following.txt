@@ -1,0 +1,30 @@
+<|im_start|>system
+Given a user instruction with its reference response and a numbered list of capabilities, rate each capability on a scale of 1-5 to indicate its relevance in responding to this instruction. A score of 5 means the capability is very used, while 1 means it is not used at all.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given a user instruction and its reference response, along with a list of {num_capabilities} capabilities. For each capability, rate the degree to which it is required to respond to this instruction.
+
+## User Instruction
+{input}
+
+## Reference Response
+{output}
+
+## Capabilities
+{capability_list}
+
+## Requirements
+- For each capability, provide an integer **score from 1 to 5**. A score of 5 means the capability is very used, while 1 means it is not used at all.
+- Include a brief **reasoning** for each score, explaining how you determined the score.
+- Output the result in **JSON format** as follows:
+  ```json
+  {
+    "1": {"reasoning": "THE REASONING", "score": SCORE},
+    "2": {"reasoning": "THE REASONING", "score": SCORE},
+    "3": {"reasoning": "THE REASONING", "score": SCORE},
+    ...
+  }
+  ```
+- Do NOT include any additional text outside of the JSON format, as **I will directly use `json.loads` in Python to convert your output to a dictionary object**.
+<|im_end|>

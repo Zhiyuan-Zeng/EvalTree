@@ -1,0 +1,39 @@
+Understanding and applying geometric transformations and properties.
+
+Solving complex trigonometric equations and identities.
+
+Handling and manipulating algebraic expressions involving multiple variables.
+
+Applying the Pythagorean theorem and properties of right triangles.
+
+Understanding and solving problems involving sequences and series.
+
+Calculating areas and volumes of geometric shapes, including non-standard figures.
+
+Understanding and applying properties of circles and their tangents.
+
+Solving problems involving modular arithmetic and number theory.
+
+Handling and solving inequalities involving multiple variables.
+
+Understanding and applying properties of matrices and determinants.
+
+Solving problems involving probability and combinatorics.
+
+Understanding and applying properties of functions and their inverses.
+
+Handling and solving problems involving complex numbers and their operations.
+
+Understanding and applying properties of logarithms and exponents.
+
+Solving problems involving rates, ratios, and proportions.
+
+Understanding and applying properties of polynomials and their roots.
+
+Handling and solving problems involving coordinate geometry and equations of lines.
+
+Understanding and applying properties of rational functions and asymptotes.
+
+Solving problems involving optimization and maximizing or minimizing expressions.
+
+Understanding and applying properties of vectors and vector operations.

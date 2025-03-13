@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a set of phrases, each summarizing the mathematical skills or capabilities needed to solve questions within a specific group, generate a gerund phrase that summarizes the collective set of mathematical skills or capabilities described across all groups.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given a set of phrases, each summarizing the mathematical skills or capabilities needed to solve questions within a specific group. There are {group_number} groups in total. Your task is to **summarize** the collective set of mathematical skills or capabilities that represents the union of these descriptions in a detailed and informative manner.
+
+## Skill Descriptions
+{skill_descriptions}
+
+## Requirements
+- The output should be a **single gerund phrase** that succinctly summarizes the overarching mathematical skill or capability represented by the union of all the provided phrases.
+- The output should comprehensively cover each skill description without going beyond them.
+- The output should not simply enumerate the given phrases but instead provide a meaningful and informative summary of the mathematical skills or capabilities they collectively represent.
+- Please output **only a gerund phrase** summarizing the mathematical skill or capability, with NO additional text.
+<|im_end|>

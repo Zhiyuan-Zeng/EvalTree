@@ -1,0 +1,31 @@
+{
+  "Recall": {
+    "per-capability": {
+      "Proficiency in designing intuitive, user-friendly interfaces.": "82 / 119 = 0.68908",
+      "Proficiency in editing and proofreading for academic papers.": "26 / 275 = 0.09455",
+      "Financial forecasting and risk analysis.": "59 / 93 = 0.63441",
+      "Proficiency in understanding and/or utilizing object-oriented programming concepts.": "114 / 274 = 0.41606",
+      "Game mechanics design and balancing.": "74 / 91 = 0.81319",
+      "Crisis communication management by media response crafting.": "65 / 94 = 0.69149",
+      "Synthesis of statistical analysis and data interpretation for business purposes.": "30 / 127 = 0.23622",
+      "Helping the users with their own mental health.": "62 / 154 = 0.40260",
+      "Evaluating complex moral dilemmas and proposing socially responsible solutions.": "296 / 372 = 0.79570",
+      "Event planning by logistical coordination.": "22 / 96 = 0.22917"
+    },
+    "average": 0.5002447722433815
+  },
+  "Precision": {
+    "per-capability": {
+      "Evaluating and applying ethical principles across diverse professional and technological contexts.": "228 / 350 = 0.65143",
+      "Evaluating and ensuring content appropriateness, compliance, and ethical standards.": "305 / 851 = 0.35840",
+      "Evaluating financial contributions and data for equitable resource allocation and informed decision-making.": "67 / 100 = 0.67000",
+      "Creating innovative and engaging game concepts with diverse mechanics and design approaches.": "68 / 110 = 0.61818",
+      "Upholding and promoting ethical standards in content creation.": "371 / 922 = 0.40239",
+      "Designing and developing user-friendly interactive interfaces with advanced features and effective validation systems.": "88 / 139 = 0.63309",
+      "Designing and mastering modular object-oriented software architectures and programming techniques.": "109 / 122 = 0.89344",
+      "Manipulating data structures and implementing aspect-oriented programming techniques in C/C++": "10 / 17 = 0.58824"
+    },
+    "average": 0.6018962286420477
+  },
+  "harmonic mean (F1)": 0.5463827977895747
+}

@@ -1,0 +1,16 @@
+<|im_start|>system
+Given a list of mathematics capabilities, generate a shorter list of the most critically relevant capabilities by combining related items where appropriate.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given {current_num_capabilities} mathematics capabilities. Generate a list of no more than {num_capabilities} capabilities by merging related capabilities into broader items where relevant.
+
+## Capabilities
+{capability_list}
+
+## Requirements
+- You should output **up to {num_capabilities} capabilities**, ideally exactly {num_capabilities}.
+- Each capability should be an **informative and concise phrase** that represents a **specific skill or capability** while covering key aspects of the capabilities provided.
+- Consolidate related capabilities into a single, broader capability wherever possible to reduce the list length.
+- Output each capability as a standalone phrase, with **no additional text, prefixes, symbols, or notations** on any line.
+<|im_end|>

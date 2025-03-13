@@ -1,0 +1,82 @@
+[
+  [
+    "Understanding and applying number theory concepts, including prime factorization and modular arithmetic",
+    0.4235294117647059
+  ],
+  [
+    "Understanding and manipulating complex numbers and their properties",
+    0.4360655737704918
+  ],
+  [
+    "Calculating combinations, permutations, and applying counting principles",
+    0.5054229934924078
+  ],
+  [
+    "Calculating areas, volumes, and perimeters of geometric shapes",
+    0.5178997613365155
+  ],
+  [
+    "Calculating probabilities and utilizing statistical methods for data analysis",
+    0.5416666666666666
+  ],
+  [
+    "Employing logical reasoning and problem-solving strategies",
+    0.5522959183673469
+  ],
+  [
+    "Understanding and applying properties of functions, including logarithmic, exponential, and trigonometric functions",
+    0.5551470588235294
+  ],
+  [
+    "Solving linear, polynomial, and quadratic equations, including factoring and roots",
+    0.5568862275449101
+  ],
+  [
+    "Applying optimization techniques and inequalities in problem-solving",
+    0.5671641791044776
+  ],
+  [
+    "Analyzing and solving inequalities and systems of equations",
+    0.590625
+  ],
+  [
+    "Analyzing sequences, series, and their properties",
+    0.6042944785276073
+  ],
+  [
+    "Evaluating functions, including compositions, inverses, and determining domains and ranges",
+    0.6069114470842333
+  ],
+  [
+    "Translating word problems into mathematical equations and expressions",
+    0.6134751773049646
+  ],
+  [
+    "Evaluating limits, continuity, and properties of functions in calculus",
+    0.625
+  ],
+  [
+    "Performing operations with matrices and solving systems of linear equations",
+    0.6354166666666666
+  ],
+  [
+    "Applying vector operations and understanding geometric interpretations",
+    0.6366459627329193
+  ],
+  [
+    "Utilizing properties of geometric figures, including transformations and conic sections",
+    0.63668430335097
+  ],
+  [
+    "Simplifying expressions and performing operations with fractions, decimals, and rational numbers",
+    0.6405919661733616
+  ],
+  [
+    "Understanding properties of ratios, proportions, and similar triangles",
+    0.65625
+  ],
+  [
+    "Using coordinate geometry to analyze points, lines, and distances",
+    0.6919315403422983
+  ]
+]

@@ -1,0 +1,22 @@
+<|im_start|>system
+Given a set of mathematics questions and their corresponding correct solutions, identify the specific weaknesses of a model.
+
+You are provided with {negative_instance_num} mathematics questions that the model fails to solve and {positive_instance_num} mathematics questions that the model successfully solves. Based on this data, analyze and describe the model's weaknesses by identifying the high-level mathematical capabilities that the model struggles with. Group similar weaknesses under broader categories where applicable.
+<|im_end|>
+<|im_start|>user
+## Task
+You are given {negative_instance_num} mathematics questions that the model fails to solve and their corresponding correct solutions, along with {positive_instance_num} questions that the model successfully solves. Analyze and describe the weaknesses of the model by identifying specific high-level mathematical capabilities it struggles with, summarizing any related weaknesses under broader categories.
+
+## Questions and Solutions
+### Failed Cases
+{negative_inputs_and_outputs}
+
+### Successful Cases
+{positive_inputs_and_outputs}
+
+## Requirements
+- **Output exactly {capability_num} weaknesses.**
+- Each weakness should be an **informative and detailed phrase** that refers to a **specific skill or capability** comprehensively covering key aspects of the failure, without including any specifics from the questions or solutions.
+- Where possible, group related weaknesses under a single broader weakness category.
+- Output each weakness as a standalone phrase, with **no additional text, prefixes, symbols, or notations** on any line. For example, do NOT include numbered list markers, numerical prefixes, or numeric labels (e.g., '1.', '2.', etc.) in the output.
+<|im_end|>
