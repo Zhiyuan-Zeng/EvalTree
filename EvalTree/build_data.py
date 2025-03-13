@@ -37,7 +37,7 @@ elif args.dataset == "MMLU" :
     with open("Datasets/MMLU/dataset.json", "r") as fin :
         inputs = [instance["question"] for instance in json.load(fin)]
     model2results = {}
-    for model in ("gpt-4o-mini-2024-07-18", "gpt-3.5-turbo", "Llama-3.1-8B-Instruct", "Llama-3.1-70B-Instruct", "Llama-3.1-Tulu-3-8B", "Llama-3.1-Tulu-3-70B", "Qwen2.5-7B-Instruct", "Qwen2.5-72B-Instruct", ) :
+    for model in ("gpt-4o-mini-2024-07-18", "gpt-3.5-turbo", "claude-3.5-haiku", "Llama-3.1-8B-Instruct", "Llama-3.1-70B-Instruct", "Llama-3.1-Tulu-3-8B", "Llama-3.1-Tulu-3-70B", "Qwen2.5-7B-Instruct", "Qwen2.5-72B-Instruct", ) :
         with open("Datasets/MMLU/eval_results/{}/results.json".format(model), "r") as fin :
             model2results[model] = json.load(fin)
             assert len(model2results[model]) == len(inputs)

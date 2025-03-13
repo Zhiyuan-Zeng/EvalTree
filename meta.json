@@ -160,6 +160,7 @@
     "models": [
       "gpt-4o-mini-2024-07-18",
       "gpt-3.5-turbo",
+      "claude-3.5-haiku",
       "Llama-3.1-8B-Instruct",
       "Llama-3.1-70B-Instruct",
       "Llama-3.1-Tulu-3-8B",
